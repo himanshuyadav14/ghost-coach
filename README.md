@@ -6,6 +6,20 @@ Ghost Coach is a full-stack web app that helps amateur and club-level batsmen ge
 
 Built as a take-home assignment demonstrating product thinking, AI integration, and production-minded frontend engineering.
 
+## Product Preview
+
+<p align="center">
+  <img src="public/screenshots/dashboard.png" alt="Dashboard: stats + score progression chart" width="900" />
+</p>
+
+<p align="center">
+  <img src="public/screenshots/history.png" alt="Session history: saved analyses + detail modal" width="900" />
+</p>
+
+<p align="center">
+  <img src="public/screenshots/chat.png" alt="Coach chat: session-aware coaching conversation" width="900" />
+</p>
+
 ---
 
 ## Why This Product Exists
